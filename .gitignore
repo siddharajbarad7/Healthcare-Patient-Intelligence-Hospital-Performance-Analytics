@@ -1,0 +1,40 @@
+# Power BI temporary/cache files
+.pbi/
+Power BI Cache/
+*.tmp
+*.temp
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# SQL temporary files
+*.bak
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+
+# Large temporary exports
+*.zip
+*.rar
+*.7z
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
